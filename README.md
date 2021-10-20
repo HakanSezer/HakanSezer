@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HakanSezer
+- 👀 I’m interested in Mobil tech and Web App
+- 🌱 I’m currently learning Swift and Node.js
+- 📫 How to reach me; hakanszer1@gmail.com

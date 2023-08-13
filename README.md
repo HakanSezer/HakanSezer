@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hakan Sezer</h1>
-<h3 align="center">Hello World</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm learning Swift.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakansezer" alt="hakansezer" /></a> </p>
 

@@ -2,6 +2,8 @@
 <h3 align="center">I'm learning Swift</h3>
 
 - 🌱 I’m currently learning **Swift**
+  
+- 👀 I’m interested in Mobil tech and Guitar
 
 - 📫 How to reach me **hakanszer1@gmail.com**
 

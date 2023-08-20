@@ -1,3 +1,5 @@
+- 💻 I work as an IT Supervisor.
+
 - 🌱 I’m currently learning **Swift**
   
 - 👀 I’m interested in Mobil tech and Guitar

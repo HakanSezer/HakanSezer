@@ -1,4 +1,4 @@
-- 💻 I work as an IT Supervisor.
+- 💻 IT Supervisor.
 
 - 🌱 I’m currently learning **Swift**
   

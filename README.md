@@ -1,6 +1,6 @@
 - 💻 IT Supervisor.
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning Cyber Security
   
 - 👀 I’m interested in Mobil tech and Guitar
 
